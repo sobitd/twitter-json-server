@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "json-server": "^0.4.2"
+  },
+  "scripts": {
+    "start": "node twitter-json-server"
   }
 }
